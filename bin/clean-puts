@@ -1,5 +1,6 @@
 #!/usr/bin/env ruby
 
+require_relative '../lib/clean_puts'
 require 'optparse'
 
 options = {}
